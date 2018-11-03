@@ -12,7 +12,7 @@ github_repo: "https://github.com/ppu-zengxin/ppu-zengxin.github.io" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I am a slow walker,but I never walk backwards!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/shouye.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
